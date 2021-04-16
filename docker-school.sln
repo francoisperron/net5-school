@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker-school", "docker-school\docker-school.csproj", "{F095C799-6DC3-4B5A-AD39-C242D04124F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi-school", "webapi-school\webapi-school.csproj", "{F095C799-6DC3-4B5A-AD39-C242D04124F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,7 +4,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Docker.School.Controllers
+namespace School.Controllers
 {
     [ApiController]
     [Route("[controller]")]
