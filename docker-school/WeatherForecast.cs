@@ -1,6 +1,6 @@
 using System;
 
-namespace docker_school
+namespace Docker.School
 {
     public class WeatherForecast
     {
