@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace School.Controllers
+namespace School.Ping
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("ping")]
     public class PingController : ControllerBase
     {
         [HttpGet]
@@ -11,10 +11,5 @@ namespace School.Controllers
         {
             return new() {Alive = true};
         }
-    }
-
-    public class PingResponse
-    {
-        public bool Alive { get; set; }
     }
 }
