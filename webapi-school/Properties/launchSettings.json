@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "docker_school": {
+    "app": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
