@@ -17,5 +17,12 @@
     cd webapi-school
     dotnet watch run
 
+### docker-build
+     docker build -t webapi-school:1 -f webapi-school/Dockerfile .
+
+### docker-run
+    docker run --name webapi-school -p 8080:80 -d webapi-school:1
+    docker rm -f webapi-school
+
 # todo
 - replace routing magic with explicit route declaration
