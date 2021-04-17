@@ -1,7 +1,7 @@
 using System.Net.Http;
 using Newtonsoft.Json;
 
-namespace School.Ping
+namespace School.Testkit
 {
     public static class JsonBody
     {

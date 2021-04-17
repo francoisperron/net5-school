@@ -1,3 +1,5 @@
+# cmd
+
 ### rebuild
     dotnet clean && dotnet build
 
@@ -14,3 +16,6 @@
 ### run-watch
     cd webapi-school
     dotnet watch run
+
+# todo
+- replace routing magic with explicit route declaration

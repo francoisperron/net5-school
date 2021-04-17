@@ -2,7 +2,7 @@ using System;
 
 namespace School.WeatherForecast
 {
-    public class WeatherForecast
+    public class WeatherForecastResponse
     {
         public DateTime Date { get; set; }
 
