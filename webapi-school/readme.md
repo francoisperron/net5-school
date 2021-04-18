@@ -23,6 +23,3 @@
 ### docker-run
     docker run --rm --name webapi-school -p 8080:80 -d webapi-school:1
     docker stop webapi-school
-
-# todo
-- replace routing magic with explicit route declaration
